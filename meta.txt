@@ -1,0 +1,10 @@
+fields:
+  id -- autoincrement, unique id
+  user  -- username, unique
+  list  -- listname, unique
+  title -- text 1024
+  body -- text 1024
+  complete -- boolean
+  createtime -- datetime
+  updatetime -- datetime
+  enabled -- boolean
