@@ -11,7 +11,7 @@
     "assert": "1.4.1",
     "async": "2.1.5",
     "body-parser": "1.16.1",
-    "express": "3.4.0",
+    "express": "4.17.1",
     "mocha": "2.4.5",
     "needle": "1.4.5"
   }
