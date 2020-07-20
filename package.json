@@ -6,7 +6,7 @@
   "private":"false",
   "dependencies": {
     "gqmongoose": "1.0.3",
-    "lodash": "1.0.0",
+    "lodash": "4.17.19",
     "gqdoq": "1.0.1",
     "assert": "1.4.1",
     "async": "2.1.5",
